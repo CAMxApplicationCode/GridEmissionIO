@@ -1,5 +1,5 @@
 SUBROUTINE  csvread(Array,nraw,ngroups)
-!program csvread
+!program csv read
 IMPLICIT NONE
 
  INTEGER i,j,ngroups,nraw
